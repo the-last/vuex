@@ -11,6 +11,11 @@ vuex 深入实践
 #### namespace
 #### 复用和认证
 
+## vue-cli生成
+```
+vue.config.js
+```
+
 ## docs vue自定义模块
 ```
 <docs></docs>
